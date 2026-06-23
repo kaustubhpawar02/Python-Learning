@@ -1,0 +1,5 @@
+r=range(1,5)
+print(list(r))
+print(tuple(r))
+print(set(r))
+print(type(r))
